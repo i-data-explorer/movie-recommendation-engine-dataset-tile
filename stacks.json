@@ -1,6 +1,6 @@
 {
-    "title": "Movie Recommendation Engine Notebook",
-    "description": "Notebook for Movie Recommendation Engine",
+    "title": "Movie Recommendation Engine Dataset",
+    "description": "Dataset for Movie Recommendation Engine",
     "logo": "_images/dataset.png",
     "enabled": true,
     "category_label": [
