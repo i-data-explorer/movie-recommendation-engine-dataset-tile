@@ -1,6 +1,6 @@
 # Movie Recommendation Engine
 
-![](movie-image-0)
+![](_images/movie-image-0)
 
 A recommendation engine, provides a selection of items to a user, based on the user's preferences. In this notebook, we've built a movie recommendation engine, which essentially works by suggesting movies watched by other users with similar "watch history".
 
