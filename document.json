@@ -7,7 +7,7 @@
     "source_repo": "https://github.com/i-data-explorer/movie-recommendation-engine-dataset.git",
     "cover": "cover.md",
     "meta": {
-        "Install time": [
+        "Install Time": [
             "3 minutes"
         ],
         "Type": [
@@ -18,6 +18,15 @@
         ],
         "Categories": [
             "Movies"
+        ],
+        "Update Frequency": [
+            "Monthly"
+        ],
+        "Last Updated": [
+            "01/01/2021"
+        ],
+        "License": [
+          "N/A"
         ],
         "Catalog Id": [
             "movie_recommendation_engine_dataset"
